@@ -16,8 +16,8 @@ In this exercise, you will have to create a function named `fizzbuzz`. This func
 * For extra credit, think of any additional test cases or edge cases that come to mind and test drive those exceptional circumstances.
 * I have also included a finished example of the kata inside the example files. I would encourage you to not look at those files until you are finished. Where did our opinions differ? Did you think of cases that I missed? Was our implementaton/code style different?
 
-## Usage:
-* Make sure you install the project dependencies:
+## Usage
+* Install project dependencies:
 ```
 $: yarn
 ```
