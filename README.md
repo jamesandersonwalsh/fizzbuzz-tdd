@@ -17,15 +17,19 @@ In this exercise, you will have to create a function named `fizzbuzz`. This func
 * I have also included a finished example of the kata inside the example files. I would encourage you to not look at those files until you are finished. Where did our opinions differ? Did you think of cases that I missed? Was our implementaton/code style different?
 
 ## Usage:
+* Make sure you install the project dependencies:
+```
+$: yarn
+```
 * In the root directory of the project run:
 ```
 $: npm run test
 ```
-* And to keep your tests runnig as you make changes run:
+* To keep your tests continuously running as you make changes:
 ```
 $: npm run test:watch
 ```
-* To run example tests run:
+* To run the example tests:
 ```
 $: npm run test:example:watch
 ```
